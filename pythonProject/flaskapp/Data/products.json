@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 13 Promax",
+    "price": 23000000,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/4/_/4_36_3_2_2_1_1_2.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Iphone 14 Promax",
+    "price": 23000000,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/4/_/4_36_3_2_2_1_1_2.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Iphone 15 Promax",
+    "price": 23000000,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/4/_/4_36_3_2_2_1_1_2.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 1,
+    "name": "Iphone 16 Promax",
+    "price": 23000000,
+    "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/4/_/4_36_3_2_2_1_1_2.jpg",
+    "category_id": 1
+  }
+]
